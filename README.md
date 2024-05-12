@@ -14,7 +14,9 @@ Auto refresh your webpage every x seconds. (i have my reason to use it, find you
 
 3. Run the script by typing `python auto_refresh.py` in your terminal or command prompt.
 
-4. The script will press the `Ctrl+R` keys every x seconds to refresh the web page.
+4. Go on the window where you want to auto refresh
+
+5. The script will press the `Ctrl+R` keys every x seconds to refresh the web page.
 
 ## How to stop it ?
 
